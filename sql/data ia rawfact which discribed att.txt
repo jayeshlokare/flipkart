@@ -1,0 +1,1 @@
+data ia rawfact which discribed attribute of its entity
