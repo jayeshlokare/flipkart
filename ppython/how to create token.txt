@@ -1,0 +1,6 @@
+how to create token:
+* click on setting----cllick on devoloper settings--- click on personal acesss token--- click on token (classic )---- click on genrate new token(classic)
+*Enter note (token)---Select Expiration---- Select scopes (repo)----click on genrate token 
+
+PUSH:
+ Update the file --- save file--- select file ----right click----click on team---- click on commit----check  
